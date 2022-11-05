@@ -6,6 +6,7 @@ __pycache__
 db.sqlite3
 media
 fixtures
+.env
 # Visual Studio Code # 
 .vscode/* 
 !.vscode/settings.json 
